@@ -1,0 +1,4 @@
+repository "Undead Survierol@tj_bysj2023@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
