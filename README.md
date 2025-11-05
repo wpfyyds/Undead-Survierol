@@ -1,7 +1,5 @@
 Undead Survivor - 僵尸生存 Roguelike 游戏
-https://img.shields.io/badge/Unity-2022.3+-000.svg?style=flat&logo=unity
-https://img.shields.io/badge/C%2523-239120?style=flat&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/License-MIT-blue.svg
+
 
 一个基于Unity引擎开发的3D僵尸生存roguelike游戏，玩家需要在无尽的僵尸浪潮中生存，通过击败敌人获得经验升级，选择不同的能力组合来构建独特的战斗风格。
 
