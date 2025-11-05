@@ -107,9 +107,6 @@ WASD - 移动角色
 ESC - 暂停游戏
 
 # 📁 项目结构
-
-## 📁 项目结构
-
 ```
 Undead-Survivor/
 ├── 📂 Assets/
